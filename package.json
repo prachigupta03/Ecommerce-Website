@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemen server.js",
-    
+    "server": "nodemen server.js",    
   },
   "keywords": [],
   "author": "",
