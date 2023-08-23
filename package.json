@@ -7,8 +7,7 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemen server.js",
-    "client": "npm start --prefix ./client",
-    "dev": "concurrently \"nodemon server.js\" \"npm run client\""
+    
   },
   "keywords": [],
   "author": "",
